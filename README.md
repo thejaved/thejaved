@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.logicalshop.in/](https://www.logicalshop.in/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Node.js, React Js, C#, Java, Wordpress Or Any Tech Related Stuff.**
+- 💬 Ask me about **HTML/CSS, SCSS, Bootstrap, Material UI, JavaScript, NodeJs, ExpressJs, MongoDB, NextJs, Reactjs, React Native, Wordpress, php, Unity Game Engine, C#, Java Or Any Tech Related Stuff.**
 
 - 📫 How to reach me **javedkhanmailid@gmail.com**
 
